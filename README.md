@@ -1,6 +1,4 @@
-
-
-[![MechChurch](https://i.imgur.com/QHzKmkz.png) MechChurch](https://t.me/mechchurch)
+[![MechChurch](https://i.imgur.com/QHzKmkz.png) MechChurch](https://t.me/s/mechchurch)
 
 # Jian
 
