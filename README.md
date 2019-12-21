@@ -7,7 +7,7 @@
 鶼: A 40% ergo split keyboard
 
 Jian supports cherry mx, alps, kailh choc switches PCB and plate mounted. You can assembly keyboard without mounting plate. Jian also supports rgb led strip like ws2812b and 1 color in-switch backlight. Each half can work standalone. 
-IC: https://forms.gle/FtJZ3gWMT8p4n2728
+[interest check](https://forms.gle/FtJZ3gWMT8p4n2728)
 
 <img src="https://i.imgur.com/iS3IbHk.jpg" data-canonical-src="Photo/Render/Layout" height="300"/>
 
