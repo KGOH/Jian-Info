@@ -1,5 +1,3 @@
-[![MechChurch](https://i.imgur.com/QHzKmkz.png) MechChurch](https://t.me/s/mechchurch)
-
 # Jian
 
 鶼: A 40% ergo split keyboard
@@ -15,3 +13,5 @@ Jian supports cherry mx, alps, kailh choc switches PCB and plate mounted. You ca
 * __Link to firmware:__ [qmk firmware](https://github.com/KGOH/qmk_firmware/tree/dev_branch/keyboards/jian/)
 * __Building guide:__  coming soon
 * __BOM:__ coming soon
+
+[![MechChurch](https://i.imgur.com/QHzKmkz.png)](https://t.me/s/mechchurch) Supported by [MechChurch](https://t.me/s/mechchurch) community
