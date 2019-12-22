@@ -12,6 +12,6 @@ Jian supports cherry mx, alps, kailh choc switches PCB and plate mounted. You ca
 * __Hardware availability:__ GB coming soon, news at [t.me/KgOfHedgehogs](https://t.me/KgOfHedgehogs)
 * __Firmware:__ [qmk firmware](https://github.com/KGOH/qmk_firmware/tree/dev_branch/keyboards/jian/)
 * __Building guide:__  coming soon
-* __BOM:__ coming soon
+* __Parts (BOM):__ coming soon
 
 [![MechChurch](https://i.imgur.com/QHzKmkz.png)](https://t.me/s/mechchurch) Supported by [MechChurch](https://t.me/s/mechchurch) community
